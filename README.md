@@ -1,8 +1,9 @@
 # GWE_Churn 
 
-This is an assignment in Predictive Analytics from Rotman's MBA Program 
-This was originally completed using SAS and excel but it gave me an 
-opportunity learn and play around with Python
+This was originally from an assignment from my Predictive Analytics course as part of my MBA.   
+It was originally completed using SAS and Excel but I recently used it to learn and play around with Python.
 
-This remains a work in progress.
+The goal was to study why certain customers churned and to develop a model to predict the likelyhood of churning. 
+
+The project is a work in progress.
 
